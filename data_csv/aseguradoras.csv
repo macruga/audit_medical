@@ -1,0 +1,4 @@
+id,description,nit,habilitado,telefono,email,active,created,owner_id,regimen_id
+1,EAPB PRUEBA CONTRIBUTIVO,999999990,1,9999999999,prueba@eapbc.com.co,0,2021-01-01,1,RC
+2,EAPB PRUEBA SUBSIDIADO,999999991,1,9999999998,prueba@eapbs.com.co,0,2021-01-01,1,RS
+3,EAPB PRUEBA ESPECIAL,999999992,1,9999999997,prueba@eapbe.com.co,0,2021-01-01,1,RE

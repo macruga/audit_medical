@@ -1,0 +1,3 @@
+from contratacion.models.estado_contrato import estadoContratoModel
+from contratacion.models.tarifario_contratado import tarifarioContratadoModel
+from contratacion.models.contratacion import contratacionModel

@@ -1,0 +1,11 @@
+from auditoria.models.rol_auditor import rolAuditorModel
+from auditoria.models.tipo_fugas import tiposFugaModel
+from auditoria.models.causa_hospitalizacion import causaHospitalizacionAuditoriaModel
+from auditoria.models.tipo_evento_adverso import tipoEventoAdversoAuditoriaModel
+from auditoria.models.grado_lesion import gradoLesionuditoriaModel
+from auditoria.models.tipo_requerimiento import tipoRequerimientoAuditoriaModel
+from auditoria.models.tipo_fallas import tipoFallasAuditoriaModel
+
+# from auditoria.models.tipo_glosa import tipoGlosaAuditoriaModel
+# from auditoria.models.auditor import auditorModel
+# from auditoria.models.auditoria import auditoriaModel

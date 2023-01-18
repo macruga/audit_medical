@@ -1,0 +1,3 @@
+from medimas.models.carga_concurrencia import uploadFileConcurrenciaModel
+from medimas.models.pacientes import pacienteModel
+# from medimas.models.tipo_egreso_estancia import tipoEgresoEstanciaModel

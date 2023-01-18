@@ -1,0 +1,5 @@
+from referencia.models.motivo_decision import motivoDecisionModel
+from referencia.models.estado_referencia import estadoReferenciaModel
+from referencia.models.motivo_remision import motivoRemisionModel
+from referencia.models.tipo_referencia import tipoReferenciaModel
+from referencia.models.referencia import referenciaModel

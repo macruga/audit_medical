@@ -1,0 +1,590 @@
+{
+    "file": {
+        "name": "PacientesMedimas22042021.csv",
+        "length": 55172,
+        "errors": [
+
+        ],
+        "success": [{
+                "star": 0,
+                "end": 299,
+                "origin": "ingest"
+            },
+            {
+                "star": 300,
+                "end": 599,
+                "origin": "ingest"
+            },
+            {
+                "star": 600,
+                "end": 899,
+                "origin": "ingest"
+            },
+            {
+                "star": 900,
+                "end": 1199,
+                "origin": "ingest"
+            },
+            {
+                "star": 1200,
+                "end": 1499,
+                "origin": "ingest"
+            },
+            {
+                "star": 1500,
+                "end": 1799,
+                "origin": "ingest"
+            },
+            {
+                "star": 1800,
+                "end": 2099,
+                "origin": "ingest"
+            },
+            {
+                "star": 2100,
+                "end": 2399,
+                "origin": "ingest"
+            },
+            {
+                "star": 2400,
+                "end": 2699,
+                "origin": "ingest"
+            },
+            {
+                "star": 2700,
+                "end": 2999,
+                "origin": "ingest"
+            },
+            {
+                "star": 3000,
+                "end": 3299,
+                "origin": "ingest"
+            },
+            {
+                "star": 3300,
+                "end": 3599,
+                "origin": "ingest"
+            },
+            {
+                "star": 3600,
+                "end": 3899,
+                "origin": "ingest"
+            },
+            {
+                "star": 3900,
+                "end": 4199,
+                "origin": "ingest"
+            },
+            {
+                "star": 4200,
+                "end": 4499,
+                "origin": "ingest"
+            },
+            {
+                "star": 4500,
+                "end": 4799,
+                "origin": "ingest"
+            },
+            {
+                "star": 4800,
+                "end": 5099,
+                "origin": "ingest"
+            },
+            {
+                "star": 5100,
+                "end": 5399,
+                "origin": "ingest"
+            },
+            {
+                "star": 5400,
+                "end": 5699,
+                "origin": "ingest"
+            },
+            {
+                "star": 5700,
+                "end": 5999,
+                "origin": "ingest"
+            },
+            {
+                "star": 6000,
+                "end": 6299,
+                "origin": "ingest"
+            },
+            {
+                "star": 6300,
+                "end": 6599,
+                "origin": "ingest"
+            },
+            {
+                "star": 6600,
+                "end": 6899,
+                "origin": "ingest"
+            },
+            {
+                "star": 6900,
+                "end": 7199,
+                "origin": "ingest"
+            },
+            {
+                "star": 7200,
+                "end": 7499,
+                "origin": "ingest"
+            },
+            {
+                "star": 7500,
+                "end": 7799,
+                "origin": "ingest"
+            },
+            {
+                "star": 7800,
+                "end": 8099,
+                "origin": "ingest"
+            },
+            {
+                "star": 8100,
+                "end": 8399,
+                "origin": "ingest"
+            },
+            {
+                "star": 8400,
+                "end": 8699,
+                "origin": "ingest"
+            },
+            {
+                "star": 8700,
+                "end": 8999,
+                "origin": "ingest"
+            },
+            {
+                "star": 9000,
+                "end": 9299,
+                "origin": "ingest"
+            },
+            {
+                "star": 9300,
+                "end": 9599,
+                "origin": "ingest"
+            },
+            {
+                "star": 9600,
+                "end": 9899,
+                "origin": "ingest"
+            },
+            {
+                "star": 9900,
+                "end": 10199,
+                "origin": "ingest"
+            },
+            {
+                "star": 10200,
+                "end": 10499,
+                "origin": "ingest"
+            },
+            {
+                "star": 10500,
+                "end": 10799,
+                "origin": "ingest"
+            },
+            {
+                "star": 10800,
+                "end": 11099,
+                "origin": "ingest"
+            },
+            {
+                "star": 11100,
+                "end": 11399,
+                "origin": "ingest"
+            },
+            {
+                "star": 11400,
+                "end": 11699,
+                "origin": "ingest"
+            },
+            {
+                "star": 11700,
+                "end": 11999,
+                "origin": "ingest"
+            },
+            {
+                "star": 12000,
+                "end": 12299,
+                "origin": "ingest"
+            },
+            {
+                "star": 12300,
+                "end": 12599,
+                "origin": "ingest"
+            },
+            {
+                "star": 12600,
+                "end": 12899,
+                "origin": "ingest"
+            },
+            {
+                "star": 12900,
+                "end": 13199,
+                "origin": "ingest"
+            },
+            {
+                "star": 13200,
+                "end": 13499,
+                "origin": "ingest"
+            },
+            {
+                "star": 13500,
+                "end": 13799,
+                "origin": "ingest"
+            },
+            {
+                "star": 13800,
+                "end": 14099,
+                "origin": "ingest"
+            },
+            {
+                "star": 14100,
+                "end": 14399,
+                "origin": "ingest"
+            },
+            {
+                "star": 14400,
+                "end": 14699,
+                "origin": "ingest"
+            },
+            {
+                "star": 14700,
+                "end": 14999,
+                "origin": "ingest"
+            },
+            {
+                "star": 15000,
+                "end": 15299,
+                "origin": "ingest"
+            },
+            {
+                "star": 15300,
+                "end": 15599,
+                "origin": "ingest"
+            },
+            {
+                "star": 15600,
+                "end": 15899,
+                "origin": "ingest"
+            },
+            {
+                "star": 15900,
+                "end": 16199,
+                "origin": "ingest"
+            },
+            {
+                "star": 16200,
+                "end": 16499,
+                "origin": "ingest"
+            },
+            {
+                "star": 16500,
+                "end": 16799,
+                "origin": "ingest"
+            },
+            {
+                "star": 16800,
+                "end": 17099,
+                "origin": "ingest"
+            },
+            {
+                "star": 17100,
+                "end": 17399,
+                "origin": "ingest"
+            },
+            {
+                "star": 17400,
+                "end": 17699,
+                "origin": "ingest"
+            },
+            {
+                "star": 17700,
+                "end": 17999,
+                "origin": "ingest"
+            },
+            {
+                "star": 18000,
+                "end": 18299,
+                "origin": "ingest"
+            },
+            {
+                "star": 18300,
+                "end": 18599,
+                "origin": "ingest"
+            },
+            {
+                "star": 18600,
+                "end": 18899,
+                "origin": "ingest"
+            },
+            {
+                "star": 18900,
+                "end": 19199,
+                "origin": "ingest"
+            },
+            {
+                "star": 19200,
+                "end": 19499,
+                "origin": "ingest"
+            },
+            {
+                "star": 19500,
+                "end": 19799,
+                "origin": "ingest"
+            },
+            {
+                "star": 19800,
+                "end": 20099,
+                "origin": "ingest"
+            },
+            {
+                "star": 20100,
+                "end": 20399,
+                "origin": "ingest"
+            },
+            {
+                "star": 20400,
+                "end": 20699,
+                "origin": "ingest"
+            },
+            {
+                "star": 20700,
+                "end": 20999,
+                "origin": "ingest"
+            },
+            {
+                "star": 21000,
+                "end": 21299,
+                "origin": "ingest"
+            },
+            {
+                "star": 21300,
+                "end": 21599,
+                "origin": "ingest"
+            },
+            {
+                "star": 21600,
+                "end": 21899,
+                "origin": "ingest"
+            },
+            {
+                "star": 21900,
+                "end": 22199,
+                "origin": "ingest"
+            },
+            {
+                "star": 22200,
+                "end": 22499,
+                "origin": "ingest"
+            },
+            {
+                "star": 22500,
+                "end": 22799,
+                "origin": "ingest"
+            },
+            {
+                "star": 22800,
+                "end": 23099,
+                "origin": "ingest"
+            },
+            {
+                "star": 23100,
+                "end": 23399,
+                "origin": "ingest"
+            },
+            {
+                "star": 23400,
+                "end": 23699,
+                "origin": "ingest"
+            },
+            {
+                "star": 23700,
+                "end": 23999,
+                "origin": "ingest"
+            },
+            {
+                "star": 24000,
+                "end": 24299,
+                "origin": "ingest"
+            },
+            {
+                "star": 24300,
+                "end": 24599,
+                "origin": "ingest"
+            },
+            {
+                "star": 24600,
+                "end": 24899,
+                "origin": "ingest"
+            },
+            {
+                "star": 24900,
+                "end": 25199,
+                "origin": "ingest"
+            },
+            {
+                "star": 25200,
+                "end": 25499,
+                "origin": "ingest"
+            },
+            {
+                "star": 25500,
+                "end": 25799,
+                "origin": "ingest"
+            },
+            {
+                "star": 25800,
+                "end": 26099,
+                "origin": "ingest"
+            },
+            {
+                "star": 26100,
+                "end": 26399,
+                "origin": "ingest"
+            },
+            {
+                "star": 26400,
+                "end": 26699,
+                "origin": "ingest"
+            },
+            {
+                "star": 26700,
+                "end": 26999,
+                "origin": "ingest"
+            },
+            {
+                "star": 27000,
+                "end": 27299,
+                "origin": "ingest"
+            },
+            {
+                "star": 27300,
+                "end": 27599,
+                "origin": "ingest"
+            },
+            {
+                "star": 27600,
+                "end": 27899,
+                "origin": "ingest"
+            },
+            {
+                "star": 27900,
+                "end": 28199,
+                "origin": "ingest"
+            },
+            {
+                "star": 28200,
+                "end": 28499,
+                "origin": "ingest"
+            },
+            {
+                "star": 28500,
+                "end": 28799,
+                "origin": "ingest"
+            },
+            {
+                "star": 28800,
+                "end": 29099,
+                "origin": "ingest"
+            },
+            {
+                "star": 29100,
+                "end": 29399,
+                "origin": "ingest"
+            },
+            {
+                "star": 29400,
+                "end": 29699,
+                "origin": "ingest"
+            },
+            {
+                "star": 29700,
+                "end": 29999,
+                "origin": "ingest"
+            },
+            {
+                "star": 30000,
+                "end": 30299,
+                "origin": "ingest"
+            },
+            {
+                "star": 30300,
+                "end": 30599,
+                "origin": "ingest"
+            },
+            {
+                "star": 30600,
+                "end": 30899,
+                "origin": "ingest"
+            },
+            {
+                "star": 30900,
+                "end": 31199,
+                "origin": "ingest"
+            },
+            {
+                "star": 31200,
+                "end": 31499,
+                "origin": "ingest"
+            },
+            {
+                "star": 31500,
+                "end": 31799,
+                "origin": "ingest"
+            },
+            {
+                "star": 31800,
+                "end": 32099,
+                "origin": "ingest"
+            },
+            {
+                "star": 32100,
+                "end": 32399,
+                "origin": "ingest"
+            },
+            {
+                "star": 32400,
+                "end": 32699,
+                "origin": "ingest"
+            },
+            {
+                "star": 32700,
+                "end": 32999,
+                "origin": "ingest"
+            },
+            {
+                "star": 33000,
+                "end": 33299,
+                "origin": "ingest"
+            },
+            {
+                "star": 33300,
+                "end": 33599,
+                "origin": "ingest"
+            },
+            {
+                "star": 33600,
+                "end": 33899,
+                "origin": "ingest"
+            },
+            {
+                "star": 33900,
+                "end": 34199,
+                "origin": "ingest"
+            },
+            {
+                "star": 34200,
+                "end": 34499,
+                "origin": "ingest"
+            },
+            {
+                "star": 34500,
+                "end": 34799,
+                "origin": "ingest"
+            }
+        ]
+    }
+}

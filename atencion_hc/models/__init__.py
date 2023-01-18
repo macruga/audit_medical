@@ -1,0 +1,26 @@
+from atencion_hc.models.tipo_hospitalizacion import tipoHospitalizacionModel
+from atencion_hc.models.servicio_prestador_asegurador import servicioIPSModel
+from atencion_hc.models.tipo_diagnostico import tipoDiagnosticoModel
+from atencion_hc.models.atencion import atencionModel
+from atencion_hc.models.evolucion_atencion import evolucionModel
+from atencion_hc.models.diagnostico_atencion import diagnosticoAtencionModel
+
+
+
+
+
+# from atencion_hc.models.programa_especial import programaEspecialModel
+# from atencion_hc.models.reflejos_examen_fisico import reflejosExamenFisicoModel
+# from atencion_hc.models.sensibilidad_examen_fisico import sensibilidadExamenFisicoModel
+# from atencion_hc.models.examen_fisico import examenFisicoModel
+# from atencion_hc.models.interconsulta import interconsultaModel
+# from atencion_hc.models.interconsulta_atencion import interconsultaAtencionModel
+# from atencion_hc.models.hoja_anestesia_atencion import hojaAnestesiaModel
+# from atencion_hc.models.medicamento_ordenado_atencion import medicamentoOrdenadoModel
+# from atencion_hc.models.procedimiento_ordenado_atencion import procedimientoOrdenadoModel
+# from atencion_hc.models.insumo_ordenado_atencion import insumoOrdenadoModel
+# from atencion_hc.models.imagen_diagnostica_ordenada_atencion import imagenDiagnosticaOrdenadaModel
+# from atencion_hc.models.reporte_imagenologia_atencion import reporteImagenologiaModel
+# from atencion_hc.models.laboratorio_ordenado_atencion import laboratorioOrdenadoModel
+# from atencion_hc.models.reporte_microbiologia_atencion import reporteMicrobiologiaModel
+# from atencion_hc.models.reporte_patologia_atencion import reportePatologiaModel
